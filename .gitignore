@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Extraction artifacts (generated at runtime)
+docs/
+
+# Intermediate design files (only .skill.md is the deliverable)
+skills/*.design.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
